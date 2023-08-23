@@ -1,0 +1,11 @@
+1. Instalasi XAMPP 8.1 dan janganlupa start
+2. Buka localhost/phpmyadmin 
+3. Buat database baru bernama letter_c
+3. Buka commandline folder dan jalankan composer install
+4. Jalankan perintah php artisan migrate
+5. Jalankan perintah php artisan db:seed
+6. Jalankan perintah php artisan serve
+7. Buka cmd lainnya dan jalankan perintah
+npm run dev 
+
+ 

@@ -1,0 +1,21 @@
+1. Halaman Login
+- Cukup login tanpa register
+- sudah ada akun(email dan passsword)
+- Setiap user harus login dulu
+
+2. Halaman Dashboard
+- Navbar, Sidebar, footer, konten
+- sidebar : dashboard, input data, user, koordinat
+- Dashboard masuk kalo login aman
+- INput Data isinya 
+a.	Nama pemilik
+b.	No persil
+c.	Kelas desa
+d.	Luas milik
+e.	Pajak
+f.	Sebab tanggal perubahan
+
+- User : data banyak User(nama,email,password)
+- Koordinat : menampilkan peta dari titik koordinat
+dari kepemilikan tanah yang ada di letter c
+KAYANYA API ini 
